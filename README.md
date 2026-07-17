@@ -53,7 +53,8 @@
 
 <p align="center">
 
-<img src="https://id.wikipedia.org/wiki/Decepticon"/>
+<img src="<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/0f2651e9-17af-45d6-97c0-2771cebdbc1c" />
+"/>
 
 </p>
 
