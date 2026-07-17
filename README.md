@@ -30,11 +30,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=voidmain157&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidmain157&layout=compact&theme=tokyonight"/>
-
+  <!-- Menggunakan instance publik alternatif jika server utama down -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=voidmain157&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=voidmain157&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
