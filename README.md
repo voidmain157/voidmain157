@@ -50,7 +50,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=voidmain157&theme=tokyonight&row=1&column=6&margin-w=15"/>
+  <img src="https://img.shields.io/badge/Repositores-1_Public-00FF99?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Contributions-42_Total-00FF99?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/Status-Learning-blue?style=flat-square"/>
 </p>
 
 ---
