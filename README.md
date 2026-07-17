@@ -49,11 +49,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## I'm Decepticon
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=voidmain157&theme=tokyonight&row=1&column=6"/>
+<img src=https://upload.wikimedia.org/wikipedia/id/8/87/Logo_Decepticons_Ungu.png/>
 
 </p>
 
