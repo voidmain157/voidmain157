@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="https://i.pinimg.com/736x/de/f0/af/def0aff447b170041f541bf622aa7491.jpg" width="50" height="50" valign="middle"/> About Me
+## <img src="https://art.ngfiles.com/images/968000/968908_memelordschlongy_glitching-skull.gif?f1564226618" width="50" height="50" valign="middle"/> About Me
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNydzg1eGg1dTVjN3gzanMwOXZ2NWFhaTEyMm1oZnk2Nmp1aHR4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MpEb9fz3M1lZe/giphy.gif" width="50" height="50" valign="middle"/> I'm Cybertronian XD
 
 - 🔐 Interested in Cybersecurity
