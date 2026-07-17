@@ -49,11 +49,11 @@
 
 ---
 
-## I'm Decepticon
+## I'm Cybertronian
 
 <p align="center">
 
-<img src="https://www.vecteezy.com/vector-art/21981181-transformers-decepticons-logo"/>
+<img src="https://id.wikipedia.org/wiki/Decepticon"/>
 
 </p>
 
