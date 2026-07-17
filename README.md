@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="https://i.pinimg.com/736x/de/f0/af/def0aff447b170041f541bf622aa7491.jpg" width="40" height="40" valign="middle"/> About Me
+## <img src="https://i.pinimg.com/736x/de/f0/af/def0aff447b170041f541bf622aa7491.jpg" width="50" height="50" valign="middle"/> About Me
 ## <img src="https://upload.wikimedia.org/wikipedia/id/8/87/Logo_Decepticons_Ungu.png" width="40" height="40" valign="middle"/> I'm Cybertronian XD
 
 - 🔐 Interested in Cybersecurity
