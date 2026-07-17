@@ -49,16 +49,6 @@
 
 ---
 
-## I'm Cybertronian
-
-<p align="center">
-
-<img src="https://id.wikipedia.org/wiki/Decepticon"/>
-
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
