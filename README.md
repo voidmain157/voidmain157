@@ -27,14 +27,32 @@
 
 ---
 
-## 📊 GitHub Stats
+## I'm Cybertronian
 
 <p align="center">
+  <svg width="200" height="200" viewBox="0 0 500 500" xmlns="http://w3.org">
+    <!-- Base / Siluet Luar -->
+    <path d="M 240 20 L 390 75 L 420 180 L 390 320 L 300 420 L 240 450 L 180 420 L 90 320 L 60 180 L 90 75 Z" fill="#000000" />
+    
+    <!-- Bagian Mata & Sayap Kiri -->
+    <polygon points="90,75 160,110 130,220 60,180" fill="#a040ff"/>
+    <polygon points="130,220 185,150 170,290" fill="#a040ff"/>
+    <polygon points="170,290 225,250 200,390" fill="#a040ff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=voidmain157&show_icons=true&theme=tokyonight"/>
+    <!-- Bagian Mata & Sayap Kanan -->
+    <polygon points="390,75 320,110 350,220 420,180" fill="#a040ff"/>
+    <polygon points="350,220 295,150 310,290" fill="#a040ff"/>
+    <polygon points="310,290 265,250 280,390" fill="#a040ff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidmain157&layout=compact&theme=tokyonight"/>
+    <!-- Bagian Tengah (Hidung & Jidat) -->
+    <polygon points="240,80 280,140 240,190 200,140" fill="#a040ff"/>
+    <polygon points="240,20 270,80 240,110 210,80" fill="#a040ff"/>
+    <polygon points="240,190 265,250 240,430 215,250" fill="#a040ff"/>
 
+    <!-- Detail Inti Putih -->
+    <polygon points="240,110 255,140 240,160 225,140" fill="#ffffff"/>
+    <polygon points="240,190 255,230 240,250 225,230" fill="#ffffff"/>
+  </svg>
 </p>
 
 ---
