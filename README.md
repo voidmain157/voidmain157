@@ -8,7 +8,7 @@
 
 ---
 
-##<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/transformers-decepticons.svg" width="30" height="30" valign="middle"/> About Me
+##<img src="https://www.google.com/imgres?q=logo%20decepticon&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fid%2F8%2F87%2FLogo_Decepticons_Ungu.png&imgrefurl=https%3A%2F%2Fid.wikipedia.org%2Fwiki%2FDecepticon&docid=-GjdFtQ4Apjy3M&tbnid=EQVn2TGrY0IlNM&vet=12ahUKEwjzrumEg9qVAxUzjGMGHdDUEncQnPAOegQIOxAA..i&w=300&h=350&hcb=2&ved=2ahUKEwjzrumEg9qVAxUzjGMGHdDUEncQnPAOegQIOxAA"/> About Me
 
 - 🔐 Interested in Cybersecurity
 - 🌱 Currently learning Python, Linux, Networking, and Penetration Testing
