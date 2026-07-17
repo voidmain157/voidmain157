@@ -1,74 +1,103 @@
-# VoidMain (voidmain157)
+<h1 align="center">Hi 👋, I'm Void Main</h1>
 
-<div align="center">
-  <h3>Aspiring Cybersecurity Professional | Network Security Enthusiast</h3>
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=voidmain157&color=0a66c2&style=flat-square&label=Profile+Views)](https://github.com/voidmain157)
-</div>
+<h3 align="center">Cybersecurity Enthusiast | Python Learner | Networking</h3>
 
-## About Me
-
-Hallo, saya *VoidMain*.  
-
-Saya adalah seorang mahasiswa yang sedang mendalami *Introduction to Cybersecurity* di Indonesia. Memiliki minat yang kuat pada *network security*, infrastruktur jaringan, dan pengembangan tools keamanan siber. Saya aktif membangun proyek-proyek praktis untuk memperdalam pemahaman tentang networking dan keamanan sistem.
-
-### 🎯 Focus Area
-- Network Security & Monitoring  
-- Cybersecurity Fundamentals  
-- Infrastructure Simulation (Cisco Packet Tracer)  
-- Python Automation for Security Tasks
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Cybersecurity+Enthusiast;Python+Developer;Networking+Learner;Always+Learning..." />
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 👨‍💻 About Me
 
-*Programming Languages*  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
-
-*Networking & Security*  
-- Cisco Packet Tracer  
-- Netmiko (Network Automation)  
-- Subnetting & LAN Configuration  
-- Network Monitoring Tools  
-- Basic Penetration Testing Concepts
+- 🔐 Interested in Cybersecurity
+- 🌱 Currently learning Python, Linux, Networking, and Penetration Testing
+- 🎯 Goal: Become a Cybersecurity Professional
+- 📚 Always learning new technologies
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Tech Stack
 
-- **[network-security-toolkit](https://github.com/voidmain157/network-security-toolkit)**  
-  Python-based toolkit for network exploration, troubleshooting, and security analysis.
+<p align="center">
 
-- **[network-monitoring-tools](https://github.com/voidmain157/network-monitoring-tools)**  
-  Network monitoring simulation using Python & Netmiko (NOC-style monitoring).
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,windows,c,cpp"/>
 
-- **[ip-checker](https://github.com/voidmain157/ip-checker)**  
-  Simple subdomain IP tracking tool built with Python.
-
-- **[Proyek-Jaringan-Sederhana-Cisco-Packet-Traccer-](https://github.com/voidmain157/Proyek-Jaringan-Sederhana-Cisco-Packet-Traccer-)**  
-  Simulasi jaringan LAN menggunakan Router, Switch, dan multiple PC.
-
-- **[Konfigurasi-LAN](https://github.com/voidmain157/Konfigurasi-LAN)**  
-  Multi-subnet LAN configuration project.
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-![VoidMain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=voidmain157&show_icons=true&theme=gruvbox&hide_border=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voidmain157&layout=compact&theme=gruvbox&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=voidmain157&show_icons=true&theme=tokyonight"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidmain157&layout=compact&theme=tokyonight"/>
 
-## 📫 Get In Touch
-
-- GitHub: [github.com/voidmain157](https://github.com/voidmain157)
-
-Terbuka untuk kolaborasi, diskusi, atau kesempatan belajar di bidang *cybersecurity* dan *network engineering*.
+</p>
 
 ---
 
-"Security is not a product, but a process."
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=voidmain157&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=voidmain157&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=voidmain157&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Python Programming
+- Linux
+- Networking
+- Cybersecurity
+- Web Security
+- Ethical Hacking
+
+---
+
+## 📫 Connect
+
+<p align="center">
+
+<a href="https://github.com/voidmain157">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=voidmain157&color=blue)
+
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
