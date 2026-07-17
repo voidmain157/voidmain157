@@ -1,110 +1,74 @@
-<h1 align="center">Hi 👋, I'm Void Main</h1>
+# VoidMain (voidmain157)
 
-<h3 align="center">Cybersecurity Enthusiast | Python Learner | Networking</h3>
+<div align="center">
+  <h3>Aspiring Cybersecurity Professional | Network Security Enthusiast</h3>
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=voidmain157&color=0a66c2&style=flat-square&label=Profile+Views)](https://github.com/voidmain157)
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Cybersecurity+Enthusiast;Python+Developer;Networking+Learner;Always+Learning..." />
-</p>
+## About Me
 
----
+Hallo, saya *VoidMain*.  
 
-## 👨‍💻 About Me
+Saya adalah seorang mahasiswa yang sedang mendalami *Introduction to Cybersecurity* di Indonesia. Memiliki minat yang kuat pada *network security*, infrastruktur jaringan, dan pengembangan tools keamanan siber. Saya aktif membangun proyek-proyek praktis untuk memperdalam pemahaman tentang networking dan keamanan sistem.
 
-- 🔐 Interested in Cybersecurity
-- 🌱 Currently learning Python, Linux, Networking, and Penetration Testing
-- 🎯 Goal: Become a Cybersecurity Professional
-- 📚 Always learning new technologies
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,windows,c,cpp"/>
-
-</p>
+### 🎯 Focus Area
+- Network Security & Monitoring  
+- Cybersecurity Fundamentals  
+- Infrastructure Simulation (Cisco Packet Tracer)  
+- Python Automation for Security Tasks
 
 ---
 
-## I'm Cybertronian
+## 🛠️ Technologies & Tools
 
-<p align="center">
-  <svg width="200" height="200" viewBox="0 0 500 500" xmlns="http://w3.org">
-    <!-- Base / Siluet Luar -->
-    <path d="M 240 20 L 390 75 L 420 180 L 390 320 L 300 420 L 240 450 L 180 420 L 90 320 L 60 180 L 90 75 Z" fill="#000000" />
-    
-    <!-- Bagian Mata & Sayap Kiri -->
-    <polygon points="90,75 160,110 130,220 60,180" fill="#a040ff"/>
-    <polygon points="130,220 185,150 170,290" fill="#a040ff"/>
-    <polygon points="170,290 225,250 200,390" fill="#a040ff"/>
+*Programming Languages*  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
 
-    <!-- Bagian Mata & Sayap Kanan -->
-    <polygon points="390,75 320,110 350,220 420,180" fill="#a040ff"/>
-    <polygon points="350,220 295,150 310,290" fill="#a040ff"/>
-    <polygon points="310,290 265,250 280,390" fill="#a040ff"/>
-
-    <!-- Bagian Tengah (Hidung & Jidat) -->
-    <polygon points="240,80 280,140 240,190 200,140" fill="#a040ff"/>
-    <polygon points="240,20 270,80 240,110 210,80" fill="#a040ff"/>
-    <polygon points="240,190 265,250 240,430 215,250" fill="#a040ff"/>
-
-    <!-- Detail Inti Putih -->
-    <polygon points="240,110 255,140 240,160 225,140" fill="#ffffff"/>
-    <polygon points="240,190 255,230 240,250 225,230" fill="#ffffff"/>
-  </svg>
-</p>
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=voidmain157&theme=tokyonight"/>
-
-</p>
+*Networking & Security*  
+- Cisco Packet Tracer  
+- Netmiko (Network Automation)  
+- Subnetting & LAN Configuration  
+- Network Monitoring Tools  
+- Basic Penetration Testing Concepts
 
 ---
 
-## 📈 Activity Graph
+## 📂 Featured Projects
 
-<p align="center">
+- **[network-security-toolkit](https://github.com/voidmain157/network-security-toolkit)**  
+  Python-based toolkit for network exploration, troubleshooting, and security analysis.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=voidmain157&theme=tokyo-night"/>
+- **[network-monitoring-tools](https://github.com/voidmain157/network-monitoring-tools)**  
+  Network monitoring simulation using Python & Netmiko (NOC-style monitoring).
 
-</p>
+- **[ip-checker](https://github.com/voidmain157/ip-checker)**  
+  Simple subdomain IP tracking tool built with Python.
 
----
+- **[Proyek-Jaringan-Sederhana-Cisco-Packet-Traccer-](https://github.com/voidmain157/Proyek-Jaringan-Sederhana-Cisco-Packet-Traccer-)**  
+  Simulasi jaringan LAN menggunakan Router, Switch, dan multiple PC.
 
-## 🚀 Current Focus
-
-- Python Programming
-- Linux
-- Networking
-- Cybersecurity
-- Web Security
-- Ethical Hacking
+- **[Konfigurasi-LAN](https://github.com/voidmain157/Konfigurasi-LAN)**  
+  Multi-subnet LAN configuration project.
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Statistics
 
-<p align="center">
+![VoidMain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=voidmain157&show_icons=true&theme=gruvbox&hide_border=true)
 
-<a href="https://github.com/voidmain157">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voidmain157&layout=compact&theme=gruvbox&hide_border=true)
 
 ---
 
-<p align="center">
+## 📫 Get In Touch
 
-![](https://komarev.com/ghpvc/?username=voidmain157&color=blue)
+- GitHub: [github.com/voidmain157](https://github.com/voidmain157)
 
-</p>
+Terbuka untuk kolaborasi, diskusi, atau kesempatan belajar di bidang *cybersecurity* dan *network engineering*.
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+---
+
+"Security is not a product, but a process."
