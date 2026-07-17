@@ -53,7 +53,7 @@
 
 <p align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/id/8/87/Logo_Decepticons_Ungu.png"/>
+<img src="https://www.vecteezy.com/vector-art/21981181-transformers-decepticons-logo"/>
 
 </p>
 
