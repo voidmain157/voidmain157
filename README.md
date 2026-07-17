@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="https://upload.wikimedia.org/wikipedia/id/8/87/Logo_Decepticons_Ungu.png"/> About Me
+## <img src="https://upload.wikimedia.org/wikipedia/id/8/87/Logo_Decepticons_Ungu.png" width="30" height="30" valign="middle"/> About Me
 
 - 🔐 Interested in Cybersecurity
 - 🌱 Currently learning Python, Linux, Networking, and Penetration Testing
