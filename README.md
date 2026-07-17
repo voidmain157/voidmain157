@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/transformers-decepticons.svg" width="30" height="30" valign="middle"/> About Me
 
 - 🔐 Interested in Cybersecurity
 - 🌱 Currently learning Python, Linux, Networking, and Penetration Testing
