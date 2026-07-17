@@ -47,16 +47,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Repositores-1_Public-00FF99?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Contributions-42_Total-00FF99?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/Status-Learning-blue?style=flat-square"/>
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
