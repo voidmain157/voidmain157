@@ -9,7 +9,7 @@
 ---
 
 ## <img src="https://i.pinimg.com/736x/de/f0/af/def0aff447b170041f541bf622aa7491.jpg" width="50" height="50" valign="middle"/> About Me
-## <img src="https://logos-world.net/wp-content/uploads/2021/08/Decepticon-Logo-1984-present.png" width="40" height="40" valign="middle"/> I'm Cybertronian XD
+## <img src="https://p7.hiclipart.com/preview/538/510/395/transformers-the-game-decepticon-autobot-decal-logo-purple-halo.jpg" width="40" height="40" valign="middle"/> I'm Cybertronian XD
 
 - 🔐 Interested in Cybersecurity
 - 🌱 Currently learning Python, Linux, Networking, and Penetration Testing
